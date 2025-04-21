@@ -1,0 +1,16 @@
+{
+ 
+        "home" : "الرئيسية",
+        "discover" : "أقرأ",
+        "Settings" : "الاعدادات",
+        "business": "أعمال",
+        "entertainment": "ترفيه",
+        "science": "علوم",
+        "sports": "رياضة",
+        "health": "صحة",
+        "technology": "تكنولوجيا",
+        "newsFromAllAroundTheWorld" : "اخبار من جميع انحاء العالم",
+        "ChooseMode" : "الوضع الليلي / النهاري",
+        "ChooseCountry": "اختر بلد الاخبار",
+        "ChooseLanguage": "اختر اللغة"
+}

@@ -1,0 +1,18 @@
+{
+   
+        "home" : "Home",
+        "discover" : "Discover",
+        "Settings" : "Settings",
+        "business": "Business",
+        "entertainment": "Entertainment",
+        "science": "Science",
+        "sports": "Sports",
+        "health": "Health",
+        "technology": "Technology",
+        "newsFromAllAroundTheWorld" : "News from all around the world",
+        "ChooseMode" : "Light / Dark Mode",
+        "ChooseCountry" : "Select Country News",
+        "ChooseLanguage": "Select Language"
+
+
+}
