@@ -1,4 +1,4 @@
-# NewsRead 🗞️📱
+# NewsRead 📱
 
 A modern news application for Android, fetching and displaying news articles from multiple sources with a dynamic and customizable user experience.
 
