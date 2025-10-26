@@ -10,21 +10,22 @@ It offers a seamless reading experience with customizable settings and real-time
 
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot1.png" width="450"></td>
+    <td align="center"><img src="screenshots/Screenshot1.png"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot2.png" width="450"></td>
+    <td align="center"><img src="screenshots/Screenshot2.png"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot3.png" width="450"></td>
+    <td align="center"><img src="screenshots/Screenshot3.png"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot4.png" width="450"></td>
+    <td align="center"><img src="screenshots/Screenshot4.png"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot5.png" width="450"></td>
+    <td align="center"><img src="screenshots/Screenshot5.png"></td>
   </tr>
 </table>
+
 
 
 
