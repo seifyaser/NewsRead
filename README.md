@@ -8,7 +8,7 @@ It offers a seamless reading experience with customizable settings and real-time
 
 ## Mockup Screens
 
-![App Mockup](screenshots/Screenshot1.png)
+<table> <tr> <td><img src="screenshots/Screenshot1.png" width="250"></td> <td><img src="screenshots/Screenshot2.png" width="250"></td> <td><img src="screenshots/Screenshot3.png" width="250"></td> </tr> <tr> <td><img src="screenshots/Screenshot4.png" width="250"></td> <td><img src="screenshots/Screenshot5.png" width="250"></td> </tr> </table>
 
 
 
