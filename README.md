@@ -8,7 +8,8 @@ It offers a seamless reading experience with customizable settings and real-time
 
 ## Mockup Screens
 
-screenshots/Screenshot1.png
+![App Mockup](screenshots/Screenshot1.png)
+
 
 
 
