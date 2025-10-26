@@ -6,6 +6,12 @@ A modern news application for Android, fetching and displaying news articles fro
 **NewsRead** is an Android application that provides users with the latest news across various categories.  
 It offers a seamless reading experience with customizable settings and real-time updates.
 
+## Mockup Screens
+
+screenshots/Screenshot1.png
+
+
+
 ## Features
 - 📰 **Functionality**: Fetches and displays news from multiple sources.
 - 🛠️ **Custom UI Components**:
